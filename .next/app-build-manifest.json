@@ -6,11 +6,6 @@
       "static/css/app/layout.css",
       "static/chunks/app/layout.js"
     ],
-    "/(auth)/sign-in/[[...sigin-in]]/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(auth)/sign-in/[[...sigin-in]]/page.js"
-    ],
     "/(root)/layout": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
@@ -26,15 +21,15 @@
       "static/chunks/main-app.js",
       "static/chunks/app/(root)/(home)/layout.js"
     ],
-    "/(root)/(home)/personal-room/page": [
+    "/(auth)/sign-in/[[...sigin-in]]/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/(root)/(home)/personal-room/page.js"
+      "static/chunks/app/(auth)/sign-in/[[...sigin-in]]/page.js"
     ],
-    "/(root)/meeting/[id]/page": [
+    "/not-found": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/(root)/meeting/[id]/page.js"
+      "static/chunks/app/not-found.js"
     ]
   }
 }
