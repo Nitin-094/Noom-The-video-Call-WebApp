@@ -12,6 +12,7 @@ If you're getting started and need assistance or face any bugs, join our active 
 - getstream
 - shadcn
 - Tailwind CSS
+![image](https://github.com/user-attachments/assets/5bfe251a-841c-464f-8e4e-bfa7a685f43a)
 
 ## <a name="features">🔋 Features</a>
 
