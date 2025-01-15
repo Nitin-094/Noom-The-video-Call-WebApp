@@ -3,40 +3,28 @@
     "5034c6b40404ffd8ca5d90696b0ad872fec15d60": {
       "workers": {
         "app/(root)/(home)/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fwhizzkidd-op%2FwebDev%2FNoom-The%20video%20Call%20WebApp%2Factions%2Fstream.actions.ts%22%2C%5B%22tokenProvider%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=true!",
-        "app/(root)/meeting/[id]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fwhizzkidd-op%2FwebDev%2FNoom-The%20video%20Call%20WebApp%2Factions%2Fstream.actions.ts%22%2C%5B%22tokenProvider%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=true!",
-        "app/(root)/(home)/upcoming/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fwhizzkidd-op%2FwebDev%2FNoom-The%20video%20Call%20WebApp%2Factions%2Fstream.actions.ts%22%2C%5B%22tokenProvider%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=true!",
-        "app/(root)/(home)/previous/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fwhizzkidd-op%2FwebDev%2FNoom-The%20video%20Call%20WebApp%2Factions%2Fstream.actions.ts%22%2C%5B%22tokenProvider%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=true!",
-        "app/(root)/(home)/recordings/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fwhizzkidd-op%2FwebDev%2FNoom-The%20video%20Call%20WebApp%2Factions%2Fstream.actions.ts%22%2C%5B%22tokenProvider%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=true!",
-        "app/(root)/(home)/personal-room/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fwhizzkidd-op%2FwebDev%2FNoom-The%20video%20Call%20WebApp%2Factions%2Fstream.actions.ts%22%2C%5B%22tokenProvider%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=true!"
+        "app/(root)/(home)/personal-room/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fwhizzkidd-op%2FwebDev%2FNoom-The%20video%20Call%20WebApp%2Factions%2Fstream.actions.ts%22%2C%5B%22tokenProvider%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/meeting/[id]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fwhizzkidd-op%2FwebDev%2FNoom-The%20video%20Call%20WebApp%2Factions%2Fstream.actions.ts%22%2C%5B%22tokenProvider%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=true!"
       },
       "layer": {
         "app/(root)/(home)/page": "action-browser",
-        "app/(root)/meeting/[id]/page": "action-browser",
-        "app/(root)/(home)/upcoming/page": "action-browser",
-        "app/(root)/(home)/previous/page": "action-browser",
-        "app/(root)/(home)/recordings/page": "action-browser",
-        "app/(root)/(home)/personal-room/page": "action-browser"
+        "app/(root)/(home)/personal-room/page": "action-browser",
+        "app/(root)/meeting/[id]/page": "action-browser"
       }
     },
     "bf536beca284ec3e1d9f4457ad93f21198ab89db": {
       "workers": {
         "app/(root)/(home)/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fwhizzkidd-op%2FwebDev%2FNoom-The%20video%20Call%20WebApp%2Factions%2Fstream.actions.ts%22%2C%5B%22tokenProvider%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=true!",
-        "app/(root)/meeting/[id]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fwhizzkidd-op%2FwebDev%2FNoom-The%20video%20Call%20WebApp%2Factions%2Fstream.actions.ts%22%2C%5B%22tokenProvider%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=true!",
-        "app/(root)/(home)/upcoming/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fwhizzkidd-op%2FwebDev%2FNoom-The%20video%20Call%20WebApp%2Factions%2Fstream.actions.ts%22%2C%5B%22tokenProvider%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=true!",
-        "app/(root)/(home)/previous/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fwhizzkidd-op%2FwebDev%2FNoom-The%20video%20Call%20WebApp%2Factions%2Fstream.actions.ts%22%2C%5B%22tokenProvider%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=true!",
-        "app/(root)/(home)/recordings/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fwhizzkidd-op%2FwebDev%2FNoom-The%20video%20Call%20WebApp%2Factions%2Fstream.actions.ts%22%2C%5B%22tokenProvider%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=true!",
-        "app/(root)/(home)/personal-room/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fwhizzkidd-op%2FwebDev%2FNoom-The%20video%20Call%20WebApp%2Factions%2Fstream.actions.ts%22%2C%5B%22tokenProvider%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=true!"
+        "app/(root)/(home)/personal-room/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fwhizzkidd-op%2FwebDev%2FNoom-The%20video%20Call%20WebApp%2Factions%2Fstream.actions.ts%22%2C%5B%22tokenProvider%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/meeting/[id]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fwhizzkidd-op%2FwebDev%2FNoom-The%20video%20Call%20WebApp%2Factions%2Fstream.actions.ts%22%2C%5B%22tokenProvider%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=true!"
       },
       "layer": {
         "app/(root)/(home)/page": "action-browser",
-        "app/(root)/meeting/[id]/page": "action-browser",
-        "app/(root)/(home)/upcoming/page": "action-browser",
-        "app/(root)/(home)/previous/page": "action-browser",
-        "app/(root)/(home)/recordings/page": "action-browser",
-        "app/(root)/(home)/personal-room/page": "action-browser"
+        "app/(root)/(home)/personal-room/page": "action-browser",
+        "app/(root)/meeting/[id]/page": "action-browser"
       }
     }
   },
   "edge": {},
-  "encryptionKey": "yB7anTfXeIr/zoJBUSTrf62WWY3BRvy+mfZ/9EQJh1s="
+  "encryptionKey": "0oPW+sUN8/lF90DFQJHk6S909Cc28Eqm8B2CMHg+p84="
 }
